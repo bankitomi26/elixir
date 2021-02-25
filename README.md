@@ -35,8 +35,8 @@
   </nav>
 
   <!-- Header - set the background image for the header in the line below -->
-  <header class="py-5 bg-image-full" style="background-image: url('');">
-    <img class="img-fluid d-block mx-auto" src="" alt="codepen-5-457935.png">
+  <div img class="img-fluid d-block mx-auto" src=" alt="">
+      <img class="img-fluid d-block mx-auto" src="codepen-5-457935.png" alt="">
   </header>
 
   <!-- Content section -->
